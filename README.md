@@ -1,1 +1,1 @@
-compile with ./compile.sh and run with ./project.exe
+
